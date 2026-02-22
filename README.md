@@ -14,4 +14,5 @@ Solving 1 DSA problem daily with structured thinking and clean implementation.
 |   6    |  Sum Of Natural Numbers        |      Array       |  Basic        |
 |   7    | Range Sum Query Immutable   |     Array     |    Easy          |
 |   8    |   Three Sum (C++)                    |      Array   |    Medium      |
-|    9   |  Sum of series                           |     Array    | Basic               |
+|    9   |  Sum of series                           |     Array    | Basic             |
+|  10   | Min and Max                            |   Array       | Basic             | 
