@@ -16,3 +16,4 @@ Solving 1 DSA problem daily with structured thinking and clean implementation.
 |   8    |   Three Sum (C++)                    |      Array   |    Medium      |
 |    9   |  Sum of series                           |     Array    | Basic             |
 |  10   | Min and Max                            |   Array       | Basic             | 
+|  11   | Check if array is sorted and rotated | Array | Easy             |
