@@ -13,7 +13,7 @@ Solving 1 DSA problem daily with structured thinking and clean implementation.
 |    5   |  Two Sum Leetcode                   | Array + Hashing|  Basic  |
 |   6    |  Sum Of Natural Numbers        |      Array       |  Basic        |
 |   7    | Range Sum Query Immutable   |     Array     |    Easy          |
-|   8    |   Three Sum (C++)                    |      Array   |    Medium      |
+|   8    |   Three Sum                               |      Array   |    Medium      |
 |    9   |  Sum of series                           |     Array    | Basic             |
 |  10   | Min and Max                            |   Array       | Basic             | 
 |  11   | Check if array is sorted and rotated | Array | Easy             |
